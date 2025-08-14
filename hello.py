@@ -5,4 +5,6 @@ if xyz=="fine":
     print("fine okayyy")
     print("fine okayyy")
 else:
-    print("ohh why")
+    x=input("r u thirsty")
+    if x=="yes":
+        print("have a water")
